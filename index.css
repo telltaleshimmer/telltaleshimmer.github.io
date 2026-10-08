@@ -1,20 +1,20 @@
 body {
-    background: linear-gradient(217deg, #ff2ea8, #3245e7);
-    color: rgba(255, 255, 255, 0.5);
-    font-size: 32pt;
-    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-    background-image: url(brick-and-mortar-01.gif);
-    background-size: cover;
-    margin-left: 3rem;
+  background: linear-gradient(217deg, #ff2ea8, #3245e7);
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 32pt;
+  font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  background-image: url(brick-and-mortar-01.gif);
+  background-size: cover;
+  margin-left: 3rem;
 }
 
 a {
-    font-weight: bold;
-    color: inherit;
-    text-decoration: none;
+  font-weight: bold;
+  color: inherit;
+  text-decoration: none;
 }
 
 .filter-green {
-    color: rgba(255, 255, 255, 0.5);
-    /* filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%); */
+  color: rgba(255, 255, 255, 0.5);
+  /* filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%); */
 }
